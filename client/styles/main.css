@@ -1,0 +1,28 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.jumbotron {
+  background-color: lightgrey;
+}
+
+.jumbotron h2{
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.Button {
+  font-weight: bold;
+  color: green;
+}
+
+.page-header h1{
+  font-size: 50px;
+  font-weight: bold;
+  text-indent: 30%;
+}
